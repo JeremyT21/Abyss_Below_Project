@@ -6,3 +6,6 @@ To properly experience this project, all video files (.mp4 files) must be moved 
 Otherwise you can click on the index.html file in the main branch to experience all that this project has to offer.
 To just play the game in this project, click the index.html file in the finalGame folder.
 To play the Phaser portion of the game, run the project on a server (you can use a USB webserver).
+
+Additionally, most art assets were created by myself (specifically the character sprites and animations, and the player hands).
+I also am responsible for the game's opening cutscene.
